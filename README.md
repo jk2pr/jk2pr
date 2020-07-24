@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Android/Kotlin
 - 📫 [Click here to reach me](https://medium.com/@jk2pr)
 
-    https://github-readme-stats.vercel.app/api?username=jk2pr&show_icons=true&theme=tokyonight
+ ![Jitendra's github stats](https://github-readme-stats.vercel.app/api?username=jk2pr&show_icons=true&theme=tokyonight)
 
