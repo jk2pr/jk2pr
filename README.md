@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Kotlin Coroutine and Flow
 - 🤔 I’m looking for help with ... Kotlin Flow
 - 💬 Ask me about ... Android/Kotlin
-- 📫 How to reach me: ... jk2praj@gmail.com
+- 📫 [Click here to reach me](jk2praj@gmail.com)
 
 
