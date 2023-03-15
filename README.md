@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Android using Kotlin and Flutter
-- 🌱 I’m currently learning ... Kotlin Coroutine and Flow
-- 🤔 I’m looking for help with ... Kotlin Flow
+- 🔭 I’m currently working on ... Android using Kotlin
+- 🌱 I’m currently learning ... Kotlin Coroutine/Flow
+- 🤔 I’m looking for help with ... Backend development using KTOR
 - 💬 Ask me about ... Android/Kotlin
 - 📫 [Click here to reach me](https://medium.com/@jk2pr)
 - <a href="https://www.linkedin.com/in/jitendraprajapati/" rel="nofollow noreferrer">
