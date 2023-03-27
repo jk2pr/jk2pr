@@ -5,11 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jk2pr&label=Profile%20views&color=0e75b6&style=plastic" alt="jk2pr" /> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose, KTOR**
-
 - 📝 I regularly write articles on [https://jkprajapati.medium.com/](https://jkprajapati.medium.com/)
-
 - 💬 Ask me about **Android, Kotlin, flutter**
-
 - 📫 How to reach me **jk2praj@gmail.com**
 
 ### Blogs posts
