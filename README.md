@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, KTOR**
 - 📝 I regularly write articles on [https://jkprajapati.medium.com/](https://jkprajapati.medium.com/)
-- 💬 Ask me about **Android, Kotlin, flutter**
+- 💬 Ask me about **Android, Kotlin, flutter, KMM**
 - 📫 How to reach me **jk2praj@gmail.com**
 
 ### Blogs posts
